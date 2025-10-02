@@ -1,6 +1,10 @@
 # 💫 About Me:
 ### Welcome, traveler. You’ve entered my codebase.<br>Don’t worry, most of the dragons have been debugged<br><br><br>I’m Arya Singh.</br><br><br>My moto is "Curiosity first| code second| impact always."</br><br>I am a builder who loves turning curiosity into meaningful projects. This GitHub is a map of my journey - experiments that taught me lessons, projects that grew, and a few victories I’m proud to share.<br><br>🧪 I tinker to learn and explore new technologies<br><p>⚡ I build scalable, maintainable solutions to real problems</p> <p>🌟 I refine my work and reflect to grow</p><br><!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryaSingh-25&show_icons=true&theme=ambient_gradient) Resources for future reffrence: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file --><br><br>Each repo tells part of my journey: how I think, build, and iterate. Feel free to explore and discover what I’m passionate about. Take a look around, whether you’re here to learn, collaborate, or just peek at my work, there’s something for everyone.<br>
 
+## 👩‍💻Projects/collabortion
+Product Defect Detection : https://github.com/deoprakash/product-defect-classification
+<p>Coal Mine Safety system : https://github.com/deoprakash/coal-mine-accident-prediction</p>
+<p>Multi Disease System : https://github.com/deoprakash/multi_disease_prediction</p>
 
 ## 🌐 Socials:
 
@@ -17,6 +21,11 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AryaSingh-25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 📰 Media & Mentions
+📰 Dainik Bhaskar (May 2025) – Featured for health AI model
+🚀 Startup Chhattisgarh – Promoted project on health AI innovation
+🏅 SSIPMT Raipur – Innovation Recognition
 
 ### ✍️ Random Dev Quote of the day 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
