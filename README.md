@@ -23,9 +23,9 @@ Product Defect Detection : https://github.com/deoprakash/product-defect-classifi
 ![](https://github-profile-trophy.vercel.app/?username=AryaSingh-25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📰 Media & Mentions
-📰 Dainik Bhaskar (May 2025) – Featured for health AI model
-🚀 Startup Chhattisgarh – Promoted project on health AI innovation
-🏅 SSIPMT Raipur – Innovation Recognition
+<p>📰 Dainik Bhaskar (May 2025) – Featured for health AI model </p>
+<p>🚀 Startup Chhattisgarh – Promoted project on health AI innovation</p>
+<p>🏅 SSIPMT Raipur – Innovation Recognition</p>
 
 ### ✍️ Random Dev Quote of the day 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
